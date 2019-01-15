@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-15T14:10:11.114313+01:00
+    created: 2019-01-15T14:16:35.709129+01:00
     description: A Helm chart for Kubernetes
     digest: 174d23bbce079a95426f939a5cb910c2d9efcd7b1a37f3d4ed6ac706bfb38f0a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -11,12 +11,12 @@ entries:
     - https://gravitonian.github.io/helm-repo/sample-runtime-bundle-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
-    created: 2019-01-15T14:10:11.113599+01:00
+    created: 2019-01-15T14:16:35.708483+01:00
     description: A Helm chart for Kubernetes
-    digest: 94ee240a3434e763eb78d208147359429152b6f06e4a94361b936153791f542e
+    digest: 6416d3cc89a9b3cf4254c1e2e3a3c2bc9b657f87d23ef9f823808c5882d1a97e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
     - https://gravitonian.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-15T14:10:11.112947+01:00
+generated: 2019-01-15T14:16:35.705352+01:00
