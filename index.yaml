@@ -1,8 +1,18 @@
 apiVersion: v1
 entries:
+  sample-cloud-connector:
+  - apiVersion: v1
+    created: 2019-01-15T15:54:40.626479+01:00
+    description: A Helm chart for Kubernetes
+    digest: 134656a514ba5a79e33fbf51b5e8ebb998916da9f1b88057b7224724710f3c20
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-cloud-connector
+    urls:
+    - https://gravitonian.github.io/helm-repo/sample-cloud-connector-0.1.0.tgz
+    version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-15T14:16:35.709129+01:00
+    created: 2019-01-15T15:54:40.650457+01:00
     description: A Helm chart for Kubernetes
     digest: 174d23bbce079a95426f939a5cb910c2d9efcd7b1a37f3d4ed6ac706bfb38f0a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -11,7 +21,7 @@ entries:
     - https://gravitonian.github.io/helm-repo/sample-runtime-bundle-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
-    created: 2019-01-15T14:16:35.708483+01:00
+    created: 2019-01-15T15:54:40.638908+01:00
     description: A Helm chart for Kubernetes
     digest: 6416d3cc89a9b3cf4254c1e2e3a3c2bc9b657f87d23ef9f823808c5882d1a97e
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -19,4 +29,4 @@ entries:
     urls:
     - https://gravitonian.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-15T14:16:35.705352+01:00
+generated: 2019-01-15T15:54:40.624355+01:00
