@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be81cc97-ceab-4acd-8157-70b7450cad56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/index.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-cloud-connector-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/sample-cloud-connector-0.1.0.tgz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample-runtime-bundle-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/sample-runtime-bundle-0.1.0.tgz" afterDir="false" />
-    </list>
+    <list default="true" id="be81cc97-ceab-4acd-8157-70b7450cad56" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +81,12 @@
               <item name="charts" type="462c0819:PsiDirectoryNode" />
               <item name="sample-runtime-bundle" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="helm-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helm-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="charts" type="462c0819:PsiDirectoryNode" />
+              <item name="variables-cloud-connector" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -104,6 +106,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/charts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +179,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547566057212</updated>
       <workItem from="1547566061679" duration="1284000" />
-      <workItem from="1547659028574" duration="1120000" />
+      <workItem from="1547659028574" duration="1911000" />
     </task>
     <task id="LOCAL-00001" summary="modify url">
       <created>1547626026789</created>
@@ -185,10 +192,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2404000" />
+    <option name="totallyTimeSpent" value="3195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="571" y="102" width="1440" height="820" extended-state="0" />
+    <frame x="316" y="57" width="1440" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

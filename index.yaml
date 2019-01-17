@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   sample-cloud-connector:
   - apiVersion: v1
-    created: 2019-01-17T16:57:15.621021+01:00
+    created: 2019-01-17T17:19:25.117194+01:00
     description: A Helm chart for Kubernetes
     digest: 9c2b54fc33be21d9d0246af9aac18be023f4838e77dff9a58b3447ded01f0422
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-17T16:57:15.621771+01:00
+    created: 2019-01-17T17:19:25.118167+01:00
     description: A Helm chart for Kubernetes
     digest: 174d23bbce079a95426f939a5cb910c2d9efcd7b1a37f3d4ed6ac706bfb38f0a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -21,7 +21,7 @@ entries:
     - https://jrodriguez-ixxus.github.io/helm-repo/sample-runtime-bundle-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
-    created: 2019-01-17T16:57:15.621358+01:00
+    created: 2019-01-17T17:19:25.117678+01:00
     description: A Helm chart for Kubernetes
     digest: 197d877b0489b7f9c66fb7f33e37c7822523d5f75293367ba9bfa373b72c06a1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -31,12 +31,12 @@ entries:
     version: 0.1.0
   variables-cloud-connector:
   - apiVersion: v1
-    created: 2019-01-17T16:57:15.622116+01:00
+    created: 2019-01-17T17:19:25.118485+01:00
     description: A Helm chart for Kubernetes (variables-cloud-connector)
-    digest: 2ae00e2dfac83f37856c8ba71997b48cec22212ac7ff1006bba7fdee4d223d65
+    digest: cd37de46d41774778a1a01a28800cd7b73f585f05599bdc59b11cbe9de08ff4f
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: variables-cloud-connector
     urls:
     - https://jrodriguez-ixxus.github.io/helm-repo/variables-cloud-connector-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-17T16:57:15.619809+01:00
+generated: 2019-01-17T17:19:25.115999+01:00
