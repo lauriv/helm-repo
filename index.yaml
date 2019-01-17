@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   sample-cloud-connector:
   - apiVersion: v1
-    created: 2019-01-17T09:57:17.867499+01:00
+    created: 2019-01-17T16:57:15.621021+01:00
     description: A Helm chart for Kubernetes
-    digest: 134656a514ba5a79e33fbf51b5e8ebb998916da9f1b88057b7224724710f3c20
+    digest: 9c2b54fc33be21d9d0246af9aac18be023f4838e77dff9a58b3447ded01f0422
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-cloud-connector
     urls:
@@ -12,7 +12,7 @@ entries:
     version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-01-17T09:57:17.868405+01:00
+    created: 2019-01-17T16:57:15.621771+01:00
     description: A Helm chart for Kubernetes
     digest: 174d23bbce079a95426f939a5cb910c2d9efcd7b1a37f3d4ed6ac706bfb38f0a
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -21,12 +21,22 @@ entries:
     - https://jrodriguez-ixxus.github.io/helm-repo/sample-runtime-bundle-0.6.1.tgz
     version: 0.6.1
   - apiVersion: v1
-    created: 2019-01-17T09:57:17.867804+01:00
+    created: 2019-01-17T16:57:15.621358+01:00
     description: A Helm chart for Kubernetes
-    digest: 4c06805e2c4ac4d1277801600ade676d44e18789b2cc5fc573359640c800380b
+    digest: 197d877b0489b7f9c66fb7f33e37c7822523d5f75293367ba9bfa373b72c06a1
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
     - https://jrodriguez-ixxus.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-17T09:57:17.866604+01:00
+  variables-cloud-connector:
+  - apiVersion: v1
+    created: 2019-01-17T16:57:15.622116+01:00
+    description: A Helm chart for Kubernetes (variables-cloud-connector)
+    digest: 2ae00e2dfac83f37856c8ba71997b48cec22212ac7ff1006bba7fdee4d223d65
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: variables-cloud-connector
+    urls:
+    - https://jrodriguez-ixxus.github.io/helm-repo/variables-cloud-connector-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-01-17T16:57:15.619809+01:00
