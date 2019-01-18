@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be81cc97-ceab-4acd-8157-70b7450cad56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/Chart.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/values.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/.helmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/NOTES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/_helpers.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/configmap.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/deployment.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/role.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/rolebinding.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/service.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/serviceaccount.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/.helmignore" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/.helmignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/Chart.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/Chart.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/NOTES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/NOTES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/_helpers.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/_helpers.tpl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/configmap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/configmap.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/deployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/role.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/role.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/rolebinding.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/rolebinding.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/service.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/service.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/templates/serviceaccount.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-rest/templates/serviceaccount.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/charts/variables-cloud-connector/values.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/values.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/index.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample-runtime-bundle-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/sample-runtime-bundle-0.1.0.tgz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables-cloud-connector-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/variables-cloud-connector-0.1.0.tgz" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/Makefile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -85,10 +57,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/values.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-157" />
+            <state relative-caret-position="383">
+              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -206,7 +180,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547810126558" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547813958450" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -287,7 +261,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547566057212</updated>
       <workItem from="1547566061679" duration="1284000" />
-      <workItem from="1547659028574" duration="4027000" />
+      <workItem from="1547659028574" duration="4610000" />
     </task>
     <task id="LOCAL-00001" summary="modify url">
       <created>1547626026789</created>
@@ -300,7 +274,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5311000" />
+    <option name="totallyTimeSpent" value="5894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="276" y="90" width="1440" height="820" extended-state="0" />
@@ -381,11 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/values.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/Chart.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -396,6 +365,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/values.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
         </state>
       </provider>
     </entry>
