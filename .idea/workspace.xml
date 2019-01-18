@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be81cc97-ceab-4acd-8157-70b7450cad56" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aps-cloud-connector-rest-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/aps-cloud-connector-rest-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/.helmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/Chart.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/_helpers.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/configmap.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/deployment.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/role.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/rolebinding.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/service.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/templates/serviceaccount.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/aps-cloud-connector-variables/values.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/index.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample-runtime-bundle-0.1.0.tgz" beforeDir="false" afterPath="$PROJECT_DIR$/sample-runtime-bundle-0.1.0.tgz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables-cloud-connector-0.1.0.tgz" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,24 +47,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-variables/values.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-variables/Chart.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/Makefile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
@@ -57,11 +55,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-rest/values.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="383">
               <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -90,11 +97,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/charts/aps-cloud-connector-variables/Makefile">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -111,6 +113,7 @@
         <option value="$PROJECT_DIR$/charts/variables-cloud-connector/values.yaml" />
         <option value="$PROJECT_DIR$/charts/aps-cloud-connector-variables/Chart.yaml" />
         <option value="$PROJECT_DIR$/charts/aps-cloud-connector-rest/Makefile" />
+        <option value="$PROJECT_DIR$/index.yaml" />
       </list>
     </option>
   </component>
@@ -147,19 +150,6 @@
               <item name="helm-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="helm-repo" type="462c0819:PsiDirectoryNode" />
               <item name="charts" type="462c0819:PsiDirectoryNode" />
-              <item name="aps-cloud-connector-variables" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helm-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helm-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="charts" type="462c0819:PsiDirectoryNode" />
-              <item name="aps-cloud-connector-variables" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="helm-repo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="helm-repo" type="462c0819:PsiDirectoryNode" />
-              <item name="charts" type="462c0819:PsiDirectoryNode" />
               <item name="sample-cloud-connector" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,7 +170,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547813958450" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547820880402" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -261,7 +251,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547566057212</updated>
       <workItem from="1547566061679" duration="1284000" />
-      <workItem from="1547659028574" duration="4610000" />
+      <workItem from="1547659028574" duration="4984000" />
     </task>
     <task id="LOCAL-00001" summary="modify url">
       <created>1547626026789</created>
@@ -274,13 +264,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5894000" />
+    <option name="totallyTimeSpent" value="6268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="276" y="90" width="1440" height="820" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -289,7 +278,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Jspresso Snap" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -301,7 +290,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="13" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,6 +361,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
           <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
