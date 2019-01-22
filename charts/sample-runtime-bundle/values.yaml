@@ -42,11 +42,11 @@ javaOpts:
   xms: 512m
   other: -XX:+UnlockExperimentalVMOptions -XX:+UseCGroupMemoryLimitForHeap -Dsun.zip.disableMemoryMapping=true -XX:+UseParallelGC -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90
 image:
-  repository: activiti-runtime-bundle-custom
+  repository: sample-activiti7-runtime-bundle
   tag: 0.0.1-SNAPSHOT
   pullPolicy: IfNotPresent
 service:
-  name: sample-activiti7-rb-app
+  name: sample-activiti7-runtime-bundle
   type: ClusterIP
   externalPort: 80
   internalPort: 8080
